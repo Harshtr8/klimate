@@ -6,6 +6,9 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
 Weather App Project
 This Weather App is a modern, feature-rich web application built using React, TypeScript, and a host of cutting-edge technologies. It leverages the OpenWeather API to fetch real-time weather data and provides an intuitive and visually appealing user interface with Shadcn UI, Tailwind CSS, and Recharts.
 
